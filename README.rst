@@ -18,13 +18,15 @@ Torchwatch only supports torch as backend. Please refer to `pytorch.org <https:/
 for the detail of PyTorch (``torch``) installation.
 There are two ways you can use ``torchwatch``.
 
-pip:
+1. Install via pip:
+--------------------
 
 .. code:: bash
 
     pip install torchwatch
 
-From source:
+2. Install from source:
+------------------------
 
 .. code:: bash
 
